@@ -36,3 +36,9 @@ iframe {
   display: block;
   margin: 0 auto 15px;
 }
+
+/*Footer*/
+
+.footer {
+  text-align: center;
+}
