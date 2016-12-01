@@ -1,0 +1,32 @@
+/*Title*/
+
+h3 {
+  margin: 0;
+}
+
+.title {
+  text-align: center;
+  margin: 5%;
+}
+
+#title-img {
+  width: 20%;
+}
+
+/*Content*/
+
+li {
+  font-size: 13px;
+}
+
+a, a:hover, a:visited {
+  text-decoration: none;
+  color: #000;
+}
+
+iframe {
+  width: 350px;
+  height: 225px;
+  display: block;
+  margin: 0 auto 15px;
+}
